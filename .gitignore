@@ -1,0 +1,14 @@
+data/
+test/
+*.gif
+*.jpg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.npz
+*.npy
+*.pt
+*.pth
+.ipynb_checkpoints/
+__pycache__/
