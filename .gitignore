@@ -12,3 +12,4 @@ test/
 *.pth
 .ipynb_checkpoints/
 __pycache__/
+.virtual_documents/
