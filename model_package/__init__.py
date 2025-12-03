@@ -7,5 +7,8 @@ model_package
 """
 
 from .unet import UNet
+from .MSCE_UNet import MSCE_UNet
+from .SE_UNet import SE_UNet
+from .unet_res import UNet_res
 
-__all__ = ["UNet"]
+__all__ = ["UNet","MSCE_UNet","SE_UNet","UNet_res"]
